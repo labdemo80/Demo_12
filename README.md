@@ -5,7 +5,7 @@ A clean and simple **Login, Register, and Dashboard** system built using **pure 
 ---
 
 ## 🚀 Live Demo  
-👉 **https://labdemo80.github.io/Test_1/**
+👉 **https://labdemo80.github.io/Demo_12/**
 
 ---
 
@@ -20,10 +20,6 @@ Test_1/
 │── assets/
 └── README.md
 
-yaml
-Copy code
-
----
 
 ## ✨ Features
 
@@ -48,18 +44,13 @@ Copy code
 
 ## 📘 How to Run Locally
 
-git clone https://github.com/labdemo80/Test_1.git
+git clone https://github.com/labdemo80/Demo_12.git
 cd Test_1
-
-arduino
-Copy code
 
 Then open:
 
 index.html
 
-yaml
-Copy code
 
 in your browser.
 
@@ -73,8 +64,6 @@ in your browser.
 Branch: main
 Folder: /root
 
-yaml
-Copy code
 4. Click **Save**
 
 Your website will go live in **30–60 seconds**.
@@ -98,14 +87,10 @@ if (localStorage.getItem("isLoggedIn") !== "true") {
 window.location.href = "index.html";
 }
 
-shell
-Copy code
 
 ### 4. Logout
 localStorage.removeItem("isLoggedIn");
 
-yaml
-Copy code
 
 ---
 
